@@ -1,11 +1,15 @@
+<h1 align="center">Welcome, I'm Tristan Guichaoua</h1>
+<h3 align="center">Engineering student<br/>&<br/>Passionate programmer</h3>
+
+- 🤖 Making Discord bot for fun
+
+## 📬 How to contact me
+
+- 📧 **tristan.guichaoua.pro@gmail.com**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20" />&nbsp;&nbsp;<a href="https://stackoverflow.com/users/11747494/">**Baanlöh**</a>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tguichaoua&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🖥️ Development
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&hide=ASP,ShaderLab,HLSL)
-
+## 🖥️ My Development Skills
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
@@ -34,5 +38,5 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-
-## 📂 My Projects
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&hide=ASP,ShaderLab,HLSL"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tguichaoua&count_private=true&show_icons=true"/>
