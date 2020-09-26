@@ -6,7 +6,7 @@
 ## 📬 How to contact me
 
 - 📧 **tristan.guichaoua.pro@gmail.com**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20" />&nbsp;&nbsp;<a href="https://stackoverflow.com/users/11747494/">**Baanlöh**</a>
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20" />&nbsp;<a href="https://stackoverflow.com/users/11747494/">**Baanlöh**</a>
 
 
 ## 🖥️ My Development Skills
@@ -38,5 +38,6 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&hide=ASP,ShaderLab,HLSL"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tguichaoua&count_private=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&hide=ASP,ShaderLab,HLSL" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=tguichaoua&count_private=true&show_icons=true" />
