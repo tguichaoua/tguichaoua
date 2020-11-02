@@ -6,7 +6,7 @@
 ## 📬 How to contact me
 
 - 📧 **tristan.guichaoua.pro@gmail.com**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20" />&nbsp;<a href="https://stackoverflow.com/users/11747494/">**Baanlöh**</a>
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20" />&nbsp;<a href="https://stackoverflow.com/users/11747494/">**tguichaoua**</a>
 
 
 ## 🖥️ My Development Skills
