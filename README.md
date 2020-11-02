@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Tristan Guichaoua</h1>
+<h1 align="center">Hi, I'm Tristan Guichaoua</h1>
 <h3 align="center">Engineering student<br/>&<br/>Passionate programmer</h3>
 
 - 🤖 Making Discord bot for fun
