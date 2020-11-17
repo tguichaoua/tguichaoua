@@ -38,6 +38,6 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&hide=ASP,ShaderLab,HLSL" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&hide=ASP,ShaderLab,HLSL,ASP.NET" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=tguichaoua&count_private=true&show_icons=true" />
