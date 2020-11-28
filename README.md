@@ -5,7 +5,7 @@
 
 - 📧 **tristan.guichaoua.pro@gmail.com**
 - <img src="https://simpleicons.org/icons/stackoverflow.svg" height="20" width="20" />&nbsp;<a href="https://stackoverflow.com/users/11747494/">**tguichaoua**</a>
-- <img src="https://simpleicons.org/icons/linkedin.svg" height="20" width="20 />&nbsp;<a href="https://www.linkedin.com/in/tristan-guichaoua/">**Tristan Guichaoua**</a>
+- <img src="https://simpleicons.org/icons/linkedin.svg" height="20" width="20" />&nbsp;<a href="https://www.linkedin.com/in/tristan-guichaoua/">**Tristan Guichaoua**</a>
 
 
 ## 🖥️ My Development Skills
