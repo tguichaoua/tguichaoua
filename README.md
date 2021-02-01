@@ -3,10 +3,11 @@
 
 ## 📬 How to contact me
 
-- 📧 **tristan.guichaoua.pro@gmail.com**
-- <img src="https://simpleicons.org/icons/stackoverflow.svg" height="20" width="20" />&nbsp;<a href="https://stackoverflow.com/users/11747494/">**tguichaoua**</a>
-- <img src="https://simpleicons.org/icons/linkedin.svg" height="20" width="20" />&nbsp;<a href="https://www.linkedin.com/in/tristan-guichaoua/">**Tristan Guichaoua**</a>
+[![Gmail](https://img.shields.io/badge/-tristan.guichaoua.pro@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:tristan.guichaoua.pro@gmail.com)
 
+[![StackOverflow](https://img.shields.io/badge/-tguichaoua-FE7A16?style=social&logo=stackoverflow&logoColor=FE7A16)](https://stackoverflow.com/users/11747494/)
+
+[![Linkedin](https://img.shields.io/badge/-Tristan%20Guichaoua-0077B5?style=social&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/tristan-guichaoua/)
 
 ## 🖥️ My Development Skills
 
