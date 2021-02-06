@@ -3,7 +3,7 @@
 
 ## 📬 How to contact me
 
-[![Gmail](https://img.shields.io/badge/-tristan.guichaoua.pro@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:tristan.guichaoua.pro@gmail.com)
+[![Gmail](https://img.shields.io/badge/-tguichaoua.dev@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:tguichaoua.dev@gmail.com)
 
 [![StackOverflow](https://img.shields.io/badge/-tguichaoua-FE7A16?style=social&logo=stackoverflow&logoColor=FE7A16)](https://stackoverflow.com/users/11747494/)
 
