@@ -1,14 +1,33 @@
 <h1 align="center">Hi, I'm Tristan Guichaoua</h1>
 <h3 align="center">Engineering student<br/>&<br/>Passionate programmer</h3>
 
-## 📬 How to contact me
+&nbsp;
 
-[![Gmail](https://img.shields.io/badge/-tguichaoua.dev@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:tguichaoua.dev@gmail.com)
+<p align="center">
+  <a href="https://stackoverflow.com/users/11747494/" ><img src="https://img.shields.io/badge/StackOverflow--FE7A16?style=social&logo=stackoverflow&logoColor=FE7A16" alt="StackOverflow" /></a>
+  <a href="https://www.linkedin.com/in/tristan-guichaoua/" ><img src="https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+<!--
+  <a href="#" ><img src="https://img.shields.io/badge/CV%20fr--EA4335?style=social&logo=readthedocs&logoColor=F44336" alt="CV" /></a>
+  <a href="#" ><img src="https://img.shields.io/badge/CV%20en--EA4335?style=social&logo=readthedocs&logoColor=F44336" alt="CV" /></a>
+-->
+</p>
 
-[![StackOverflow](https://img.shields.io/badge/-tguichaoua-FE7A16?style=social&logo=stackoverflow&logoColor=FE7A16)](https://stackoverflow.com/users/11747494/)
+<p align="center">
+  <a href="mailto:tguichaoua.dev@gmail.com" ><img src="https://img.shields.io/badge/gmail-tguichaoua.dev@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+  <a href="mailto:tristan.guichaoua.pro@gmail.com" ><img src="https://img.shields.io/badge/gmail%20Pro-tristan.guichaoua.pro@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+  
+</p>
 
-[![Linkedin](https://img.shields.io/badge/-Tristan%20Guichaoua-0077B5?style=social&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/tristan-guichaoua/)
+&nbsp;
 
+<img align="left" src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" />
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&theme=monokai&hide=ASP,ShaderLab,HLSL,ASP.NET" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tguichaoua&count_private=true&show_icons=true&theme=monokai" />
+</div>
+
+<!--
 ## 🖥️ My Development Skills
 
 ### Languages
@@ -38,6 +57,4 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tguichaoua&layout=compact&hide=ASP,ShaderLab,HLSL,ASP.NET" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=tguichaoua&count_private=true&show_icons=true" />
+-->
