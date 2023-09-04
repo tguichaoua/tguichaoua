@@ -1,6 +1,9 @@
 <div align="center">
   <h3>Hi there👋 I'm Tristan Guichaoua</h3>
   <p>Developer | Engineer | Rustacean 🦀</p>
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1OWI4N)
+  
   <p>———————————ฅ/ᐠ. ̫ .ᐟ\ฅ———————————</p>
   You can learn more about me on <a href="https://tguichaoua.github.io/">my website</a> or on my <a href="https://www.linkedin.com/in/tristan-guichaoua/">LinkedIn profile</a>.
  
