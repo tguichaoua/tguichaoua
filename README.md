@@ -1,10 +1,7 @@
 <div align="center">
-  <p>———————————ฅ/ᐠ. ̫ .ᐟ\ฅ———————————</p> 
-  
-  <p>Developer | Engineer | Rustacean 🦀</p>
 
-  <p>———————————ฅ/ᐠ. ̫ .ᐟ\ฅ———————————</p>
-  
+  <img src="https://tguichaoua.github.io/banner.svg" width="400" />
+
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1OWI4N)
 
   🌐 <strong><a href="https://tguichaoua.github.io">tguichaoua.github.io</a><string><br />
