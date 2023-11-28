@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src=./banner.svg" width="400" />
+  <img src="./banner.svg" width="400" />
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1OWI4N)
 
